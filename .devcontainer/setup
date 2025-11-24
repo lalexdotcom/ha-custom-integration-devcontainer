@@ -3,5 +3,6 @@
 set -e
 
 cd "$(dirname "$0")/.."
+python3 -m pip install --requirement ./.devcontainer/requirements.txt
 
 CUSTOM_INTEGRATION_ROOT=${PWD} cookiecutter gh:lalexdotcom/ha-custom-integration-template
