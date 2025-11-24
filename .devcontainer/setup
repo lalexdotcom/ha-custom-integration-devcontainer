@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+CUSTOM_INTEGRATION_ROOT=${PWD} cookiecutter gh:lalexdotcom/ha-custom-integration-template
