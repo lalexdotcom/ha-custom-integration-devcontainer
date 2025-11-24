@@ -1,7 +1,7 @@
 # HA Custom Integration
 
-[!WARNING]
-All files outside of the .devcontainer could be overwritten by the template (including this README)
+> [!WARNING]
+> All files outside of the .devcontainer could be overwritten by the template (including this README)
 
 ## prerequisites
 This template is a devcontainer for VS Code. For more information, see the [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers)
