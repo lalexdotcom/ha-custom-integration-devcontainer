@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/HACS-default-orange?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://hacs.xyz/)
 [![Static Badge](https://img.shields.io/badge/Home_Assistant-2025.11.3-blue?style=for-the-badge&logo=homeassistant&logoColor=white)
 ](https://www.home-assistant.io/)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flalexdotcom%2Fha-custom-integration-devcontainer%2Frefs%2Fheads%2Fmain%2F.devcontainer%2Fconfig.json&query=%24.template&style=for-the-badge&logo=github&logoColor=white&label=template)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flalexdotcom%2Fha-custom-integration-devcontainer%2Frefs%2Fheads%2Fmain%2F.devcontainer%2Fconfig.json&query=%24.template&style=for-the-badge&logo=github&logoColor=white&label=template)](https://github.com/lalexdotcom/ha-custom-integration-template)
 
 
 
