@@ -1,6 +1,9 @@
 # HA Custom Integration
 
-[![Static Badge](https://img.shields.io/badge/HACS-default-orange?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)]((https://github.com/hacs/integration))
+[![Static Badge](https://img.shields.io/badge/HACS-default-orange?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://github.com/hacs/integration)
+[![Static Badge](https://img.shields.io/badge/template-1.0.1--beta-blue?style=for-the-badge&logo=github)](https://github.com/lalexdotcom/ha-custom-integration-template/releases/tag/1.0.0-beta.1)
+
+
 
 Start your [Home Assistant Custom Integration](https://developers.home-assistant.io/docs/creating_component_index/) for [Home Assistant Community Store (HACS)](https://hacs.xyz/) from a brand new test-ready and publish-ready project structure
 
