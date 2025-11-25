@@ -14,8 +14,8 @@ This repository template is just a VSCode devcontainer which gonna deploy a [coo
 This template is a devcontainer for VS Code. For more information, see the [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## Installation
-Fork this repository, then use it as a template for your new awesome custom integration (see [Github repository template doc](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
-Then clone your newly created repository with VS Code, reopen it in container, answer to prompts and let the magic happen! :sparkles: :sparkles: :sparkles:
+At the top left of this repository, select the green button "Use this template" to create your new own custom integration repository (see [Github repository template doc](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
+Then clone your newly created repository in VS Code, reopen it in container, answer to prompts and let the magic happen! :sparkles: :sparkles: :sparkles:
 
 > [!WARNING]
 > All files outside of the .devcontainer might be overwritten by the template (including this README)
