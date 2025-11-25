@@ -1,7 +1,7 @@
 # HA Custom Integration Devcontainer
 
 [![Static Badge](https://img.shields.io/badge/HACS-default-orange?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://hacs.xyz/)
-[![Static Badge](https://img.shields.io/badge/template-1.0.1--beta-blue?style=for-the-badge&logo=github)](https://github.com/lalexdotcom/ha-custom-integration-template/releases/tag/1.0.0-beta.1)
+[![Static Badge](https://img.shields.io/badge/template-1.0.2--beta-blue?style=for-the-badge&logo=github)](https://github.com/lalexdotcom/ha-custom-integration-template/releases/tag/1.0.0-beta.2)
 
 
 
