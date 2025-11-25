@@ -11,11 +11,14 @@ Start your [Home Assistant Custom Integration](https://developers.home-assistant
 This repository template is just a VSCode devcontainer which gonna deploy a [cookiecutter](https://github.com/cookiecutter/cookiecutter) template based on the [integration_blueprint](https://github.com/ludeeus/integration_blueprint) bootstrap and inspired by [cookiecutter-homeassistant-custom-component](https://github.com/oncleben31/cookiecutter-homeassistant-custom-component).
 
 ## Prerequisites
-This template is a devcontainer for VS Code. For more information, see the [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers)
+This template is a devcontainer for VS Code. Be sure to know how those things work...
 
 ## Installation
-At the top left of this repository, select the green button "Use this template" to create your new own custom integration repository (see [Github repository template doc](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
-Then clone your newly created repository in VS Code, reopen it in container, answer to prompts and let the magic happen! :sparkles: :sparkles: :sparkles:
+1. At the top right of this repository page, select the green button "Use this template" to create your new own custom integration repository (see [Github repository template doc](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
+2. Clone your newly created repository in VS Code (see the see the [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers))
+3. Reopen it in provided devcontainer (a popup should show up)
+4. Answer to prompts when asked
+5. Let the magic happen! :sparkles: :sparkles: :sparkles:
 
 > [!WARNING]
 > All files outside of the .devcontainer might be overwritten by the template (including this README)
